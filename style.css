@@ -49,10 +49,13 @@ nav a:hover::after{
   padding:100px 20px;
 }
 
-.profile-img{
-  width:140px;
-  border-radius:50%;
-  margin-bottom:20px;
+.profile-img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center top; /* Adjust this */
+  margin-bottom: 20px;
 }
 
 .hero h1{font-size:42px;}
