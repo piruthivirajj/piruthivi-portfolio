@@ -1,5 +1,5 @@
 // Typing
-const words=["IoT Developer","Future Scientist","Entrepreneur"];
+const words=["ENGINEER" ];
 let i=0,j=0,del=false;
 
 function type(){
