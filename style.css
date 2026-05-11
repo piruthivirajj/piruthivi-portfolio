@@ -50,9 +50,9 @@ nav a:hover::after{
 }
 
 .profile-img {
-  width: 140px;
-  height: 140px;
-  border-radius: 50%;
+  width: 240px;
+  height: 240px;
+  border-radius: 30%;
   object-position: center top; /* Adjust this */
   margin-bottom: 20px;
 }
